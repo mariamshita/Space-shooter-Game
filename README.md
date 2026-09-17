@@ -14,7 +14,7 @@ A 2D space shooter game built with **Unity**, where players pilot a spaceship, d
 
 ## ✨ Features
 
-- 🖱️ Mouse-based ship movement and shooting
+- ⌨️ Arrow-key ship movement and Spacebar shooting
 - 👾 Three distinct enemy types with unique attack behaviors
 - 🚀 Screen-clearing missile ability triggered every 10 kills
 - ❤️ Health bar with real-time percentage display
@@ -45,8 +45,8 @@ A 2D space shooter game built with **Unity**, where players pilot a spaceship, d
 
 | Action | Input |
 |--------|-------|
-| 🕹️ Move Ship | Mouse Movement |
-| 🔫 Shoot | Mouse Click |
+| ⬆️⬇️⬅️➡️ Move Ship | Arrow Keys |
+| 🔫 Shoot | Spacebar |
 
 ---
 
@@ -83,8 +83,8 @@ A 2D space shooter game built with **Unity**, where players pilot a spaceship, d
 ## 🎯 How to Play
 
 1. Press **Start** on the main menu to begin
-2. Move the mouse to steer your spaceship
-3. Click to shoot down incoming enemies
+2. Use the Arrow Keys to move your spaceship (Up, Down, Left, Right)
+3. Press Spacebar to shoot down incoming enemies
 4. Watch out for the three enemy types — ranged snipers, mid-range attackers, and melee rammers
 5. Avoid enemy contact to preserve your health
 6. Chain 10 kills in a row to trigger a screen-clearing missile
